@@ -65,5 +65,6 @@
 - A clear understanding of what drives customer satisfaction in the airline industry.
 - Actionable insights for improving service quality and operational efficiency.
 - Visual dashboards and data summaries to communicate findings effectively.
+- Authour: Thuong Tran
+LinkedIn: (https://www.linkedin.com/in/trananhthuong)
 Link Data: Airline_Passenger_Satisfaction.csv https://drive.google.com/drive/folders/1rG5I9F45vhcSMwhKeR0TuRWMJ-myku9U?usp=sharing
-Link Dashboard Tableau Public:
